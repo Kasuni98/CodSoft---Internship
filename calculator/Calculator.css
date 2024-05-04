@@ -1,29 +1,3 @@
-/* .calculator {
-    width: 300px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-#display {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
-}
-
-.buttons {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 5px;
-}
-
-button {
-    width: 100%;
-    padding: 10px;
-    font-size: 18px;
-} */
-
-/* New css code with more visualize */
-
 .calculator {
     width: 370px;
     margin: 100px auto;
